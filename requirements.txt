@@ -1,8 +1,8 @@
 fastapi
 uvicorn
+youtube-transcript-api
 transformers
 torch
-beautifulsoup4
-pytube
 jinja2
-youtube-transcript-api
+beautifulsoup4
+requests
