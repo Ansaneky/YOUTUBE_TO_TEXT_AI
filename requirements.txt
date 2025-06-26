@@ -5,3 +5,4 @@ torch
 beautifulsoup4
 pytube
 jinja2
+youtube-transcript-api
